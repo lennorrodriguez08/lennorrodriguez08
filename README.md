@@ -4,7 +4,7 @@ const currentYear = newDate.getFullYear()
 Heeey! I appreciate your visit. For a quick intro, I'm a developer with extensive knowledge and { currentYear - 2017 } years of industry experience in Web Development, Basics of SEO, Digital Marketing and Event Registration Management.
 
 LinkedIn:  https://www.linkedin.com/in/ronnel-rodriguez/ <br/>
-Portfolio: https://ronnelrodriguez.netlify.app/ (I'll be updating this soon) <br/>
+Portfolio: https://ronnelrodriguez.netlify.app/ <br/>
 YouTube:   https://www.youtube.com/channel/UCu0sy3VnC4JAGbPAdusbtlQ
 
 <!---
