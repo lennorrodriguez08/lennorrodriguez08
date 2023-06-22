@@ -1,11 +1,10 @@
-👋 Hi there! I’m Ronnel Rodriguez. I have industry experience in Web Development, currently specializing most in Front End Development. I also have working knowledge to the following areas: Search Engine Optimization, Digital Marketing and Event Registration Management.
+const newDate = new Date()
+const currentYear = newDate.getFullYear() - 2017
 
-👀 I’m dedicated to become a full stack web developer someday, therefore I never stop finding ways to improve myself.
+Heeey! I appreciate your visit. For a quick intro, I'm a developer with extensive knowledge and { currentYear - 2017 } years of industry experience in Web Development, Basics of SEO, Digital Marketing and Event Registration Management.
 
 LinkedIn:  https://www.linkedin.com/in/ronnel-rodriguez/
-
 Portfolio: https://ronnelrodriguez.netlify.app/
-
 YouTube:   https://www.youtube.com/channel/UCu0sy3VnC4JAGbPAdusbtlQ
 
 <!---
