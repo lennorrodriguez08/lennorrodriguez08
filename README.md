@@ -1,4 +1,4 @@
-Heeey! I appreciate your visit. For a quick intro, I'm a developer with extensive knowledge and have { new Date().getFullYear() - 2019 } years of industry experience in Web Development, Basics of SEO, Digital Marketing and Event Registration Management.
+Heeey! I appreciate your visit. I'm a developer with industry experience in Web Development, Web Automation (Katalon) and Manual Testing, Search Engine Optimization, Digital Marketing and Event Registration Management. 
 
 LinkedIn:  https://www.linkedin.com/in/ronnel-rodriguez/ <br/>
 Portfolio: https://ronnelrodriguez.netlify.app/ <br/>
